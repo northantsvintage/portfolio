@@ -86,6 +86,14 @@ const SocialMedia = styled.div`
 const Navigation = () => (
   <Wrapper>
     <Nav>
+    <Link
+        to="/"
+        activeClassName={css`
+          ${active};
+        `}
+      >
+        Home
+      </Link>
       <Link
         to="/about"
         activeClassName={css`

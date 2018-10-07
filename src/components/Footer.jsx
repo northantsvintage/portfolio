@@ -13,7 +13,7 @@ const Wrapper = styled.footer`
 
 const Footer = () => (
   <Wrapper>
-    <p>Copyright &copy; 2018. All right reserved. Pictures by Unsplash.</p>
+    <p>Copyright &copy; 2018. All right reserved.</p>
   </Wrapper>
 );
 

@@ -9,7 +9,7 @@ module.exports = {
   author: 'Ida', // Author for schemaORGJSONLD
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: '@northantsvintag', // Twitter Username
-  ogSiteName: 'eida', // Facebook Site Name
+  ogSiteName: 'ida', // Facebook Site Name
   ogLanguage: 'en_UK',
   // googleAnalyticsID: 'UA-12345689-1',
   // Manifest and Progress color

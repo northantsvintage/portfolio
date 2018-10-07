@@ -15,8 +15,6 @@ const Wrapper = styled.div`
 const Item = styled.div`
   position: relative;
   margin: 10px;
-  border: 5px solid #C7C6C6;
-  box-shadow: 10px 10px 1px #E6E6E6;
   &:before {
     content: '';
     display: block;
@@ -41,7 +39,7 @@ const Content = styled.div`
     top: 0;
     width: 100%;
     z-index: 10;
-    transition: all 0.3s ease-in-out;
+    transition: all 0.7s ease-in-out;
     text-decoration: none;
 
     &:hover {
