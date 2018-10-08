@@ -7,6 +7,8 @@ skill: "jQuery, UX Desgin"
 ---
 # Description
 
+<img src="pixel-art-maker.png">
+
 [Github Source](https://github.com/northantsvintage/fewd-pixel-art-maker/)
 
 [Demo](https://northantsvintage.github.io/fewd-pixel-art-maker/index.html)

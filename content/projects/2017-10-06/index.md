@@ -6,6 +6,11 @@ date: "2017-10-28"
 skill: "JavaScript Testing"
 ---
 # Description
+<img src="jasmine-feeds.png">
+
+[Github Source](https://github.com/northantsvintage/frontend-nanodegree-feedreader)
+
+[Demo](https://northantsvintage.github.io/frontend-nanodegree-feedreader/)
 
 Writing testing feeds.
 - Edit the allFeeds variable in app.js to make the provided test fail

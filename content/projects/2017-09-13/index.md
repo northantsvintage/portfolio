@@ -7,6 +7,8 @@ skill: "HTML5, jQuery, Wordpress, Magento"
 ---
 # Description
 
+<img src="old-portfolio.png">
+
 Older Projects for NPS House Clearance, PCCSUK and SPC YearBooks
 
 https://ida-old-portfolio.netlify.com/

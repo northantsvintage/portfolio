@@ -7,5 +7,11 @@ skill: "Responivness, Accesibility"
 ---
 # Description
 
+<img src="restaurant-reviews.jpg">
+
+[Github Source](https://northantsvintage.github.io/restaurant-review-app-project/)
+
+[Demo](https://northantsvintage.github.io/restaurant-review-app-project/)
+
  Convert a static webpage to a mobile-ready web application with offline capability.
  Static design that lacks accessibility and converting it to the design to be responsive on different sized displays and accessible for screen reader use and making it Progressive Web Application by caching some assets for offline use. Add a ServiceWorker script to cache requests to all of the site’s assets (so that any page that has been visited by a user will be accessible when the user is offline)

@@ -6,6 +6,12 @@ date: "2017-10-28"
 skill: "Object-Oriented JavaScript, HTML5 Canvas"
 ---
 # Description
+<img src="arcade-game.png">
+
+[Github Source](https://github.com/northantsvintage/frontend-nanodegree-arcade-game/)
+
+[Demo](https://northantsvintage.github.io/frontend-nanodegree-arcade-game/)
+
 
 This was Arcade Game Clone. Provided with visual assets and game loop engine, implemented functionalities in order to play the game. Game was programmed using Object Oriented Javascript programming principles and HTML5 Canvas.
 In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water, without colliding into any one of the enemies.

@@ -6,6 +6,11 @@ date: "2017-10-27"
 skill: "JavaScript, DOM, Event Listeners, GIT"
 ---
 # Description
+<img src="memory-game.png">
+
+[Github Source](https://github.com/northantsvintage/fend-project-memory-game/)
+
+[Demo](https://northantsvintage.github.io/fend-project-memory-game/)
 
 Classic Memory game "Concentration" using JavaScript, DOM, Event Listeneres, HTML5.
 
