@@ -58,12 +58,8 @@ const Project = ({ pageContext: { slug }, data: { markdownRemark: postNode } }) 
             <Bottom>{project.client}</Bottom>
           </InfoBlock>
           <InfoBlock>
-            <Top>Date</Top>
-            <Bottom>{project.date}</Bottom>
-          </InfoBlock>
-          <InfoBlock>
-            <Top>Service</Top>
-            <Bottom>{project.service}</Bottom>
+            <Top>Skill</Top>
+            <Bottom>{project.skill}</Bottom>
           </InfoBlock>
         </InformationWrapper>
       </Wrapper>
@@ -94,7 +90,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "DD.MM.YYYY")
         client
-        service
+        skill
         cover {
           childImageSharp {
             resize(width: 800) {

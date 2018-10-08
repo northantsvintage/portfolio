@@ -1,9 +1,9 @@
 ---
-client: "Udacity"
-title: "Object Oriented JavaScript"
-cover: "./restaurant-reviews.jpg"
-date: "2017-10-25"
-service: "App Design"
+client: "Google Udacity Course"
+title: "Responsive Web Page"
+cover: "./responsive-spa.png"
+date: "2017-10-26"
+skill: "Website"
 ---
 # Description
 

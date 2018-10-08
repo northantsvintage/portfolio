@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import { FaInstagram, FaBehance, FaDribbble } from 'react-icons/fa';
+import { FaLinkedin, FaGit } from 'react-icons/fa';
 import styled, { css } from 'react-emotion';
 import config from '../../config/website';
 import theme from '../../config/theme';
@@ -115,14 +115,11 @@ const Navigation = () => (
       <Link to="/">{config.siteTitle}</Link>
     </Name>
     <SocialMedia>
-      <a href="https://www.instagram.com/lekoarts.de" target="_blank" rel="noopener noreferrer">
-        <FaInstagram />
+      <a href="https://www.linkedin.com/in/ida-p" target="_blank" rel="noopener noreferrer">
+        <FaLinkedin />
       </a>
-      <a href="https://www.behance.net/lekoarts" target="_blank" rel="noopener noreferrer">
-        <FaBehance />
-      </a>
-      <a href="https://dribbble.com/LeKoArts" target="_blank" rel="noopener noreferrer">
-        <FaDribbble />
+      <a href="https://github.com/northantsvintage" target="_blank" rel="noopener noreferrer">
+        <FaGit />
       </a>
     </SocialMedia>
   </Wrapper>

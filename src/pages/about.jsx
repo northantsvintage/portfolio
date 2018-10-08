@@ -13,9 +13,8 @@ const About = () => (
       <h3>Front-End Web Developer from Northampton</h3>
       <p>I am passionate about building responsive, interactive, accessible and optimized websites with SEO in mind!</p>
       <ul>
-        <li><a href="#">LinkedIn</a></li>
-        <li><a href="#">GitHub</a></li>
-        <li><a href="#">Resume</a></li>
+        <li><a href="https://www.linkedin.com/in/ida-p" target="_blank">LinkedIn</a></li>
+        <li><a href="https://github.com/northantsvintage">GitHub</a></li>
       </ul>
     </Container>
   </Layout>

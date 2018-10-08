@@ -1,9 +1,9 @@
 ---
-client: "Udacity"
+client: "Google Udacity Course"
 title: "Pixel Art Maker - jQuery"
 cover: "./pixel-art-maker.png"
 date: "2017-10-26"
-service: "Web App"
+skill: "jQuery, UX Desgin"
 ---
 # Description
 
@@ -18,4 +18,5 @@ service: "Web App"
   - UX Design
 
 Drawing application
-Layers system
+
+Using DOM selectors and event listeners, drawing app that allows users to create their own pixel art

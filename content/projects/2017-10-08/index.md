@@ -1,9 +1,9 @@
 ---
-client: "Udacity"
+client: "Google Udacity Course"
 title: "My Reads - React Application"
 cover: "./my-reads.png"
 date: "2017-10-27"
-service: "Art Direction"
+skill: "Art Direction"
 ---
 # Description
 

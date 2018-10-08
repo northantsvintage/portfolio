@@ -39,7 +39,7 @@ const Content = styled.div`
     top: 0;
     width: 100%;
     z-index: 10;
-    transition: all 0.7s ease-in-out;
+    transition: all 0.5s ease-in-out;
     text-decoration: none;
 
     &:hover {
@@ -87,7 +87,7 @@ const ProjectListing = ({ projectEdges }) => (
             <Link to={project.node.fields.slug}>
               <Overlay style={{ backgroundColor: overlayColor }} />
               <h2>{project.node.frontmatter.client}</h2>
-              <div>{project.node.frontmatter.service}</div>
+              <div>{project.node.frontmatter.skill}</div>
             </Link>
           </Content>
         </Item>
