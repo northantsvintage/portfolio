@@ -7,10 +7,10 @@ skill: "Responsive Website"
 ---
 # Description
 
-Flexbox and Media Queries
-
 <img src="responsive-spa.png">
 
 [Github Source](https://github.com/northantsvintage/Final-Brighton-App/)
 
 [Demo](https://northantsvintage.github.io/Final-Brighton-App)
+
+Flexbox and Media Queries Single Page Website

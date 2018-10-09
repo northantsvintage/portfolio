@@ -15,5 +15,3 @@ skill: "Responsive Single Page Website"
 I was provided with a design mockup as a PDF-file and must replicate that design in HTML and CSS. Developed responsive website that displays images, descriptions and links to each of the portfolio projects.
 Following strict HTML and CSS style guidelines where code passed the Code Quality according to Udacity's strict guidelines.
 Semantic HTML Elements. Website validated against W3C's Validators. Flexbox, Responsive Images
-
-https://northantsvintage.github.io/fend-portfolio/

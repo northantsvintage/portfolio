@@ -14,7 +14,7 @@ skill: "JavaScript, DOM, Event Listeners, GIT"
 
 Classic Memory game "Concentration" using JavaScript, DOM, Event Listeneres, HTML5.
 
-The way I apporached this project was to break it down into small pieces of work.
+The way I approached this project was to break it down into small pieces of work.
 - I started by building a grid of cards
 - Adding the functionality to handle clicks
 - Matching logic

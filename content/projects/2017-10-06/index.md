@@ -10,12 +10,11 @@ skill: "JavaScript Testing"
 
 [Github Source](https://github.com/northantsvintage/frontend-nanodegree-feedreader)
 
-[Demo](https://northantsvintage.github.io/frontend-nanodegree-feedreader/)
 
 Writing testing feeds.
-- Edit the allFeeds variable in app.js to make the provided test fail
-- Write a test that loops through each feed in the allFeeds object and ensures it has a URL defined and that the URL is not empty
-- Write a test that loops through each feed in the allFeeds object and ensures it has a name defined and that the name is not empty
-- Write a new test suite named "The menu
-- Write a test that ensures the menu element is hidden by default
-- Write a test suite named "Initial Entries", "loadFeed", "New Feed Selection"
+- allFeeds to make the provided test fail
+- test that loops through each feed in the allFeeds object and ensures it has a URL defined and that the URL is not empty
+- test that loops through each feed in the allFeeds object and ensures it has a name defined and that the name is not empty
+- test suite named "The menu"
+- test that ensures the menu element is hidden by default
+- test suite: "Initial Entries", "loadFeed", "New Feed Selection"
