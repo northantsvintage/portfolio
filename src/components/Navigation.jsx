@@ -8,7 +8,10 @@ import theme from '../../config/theme';
 const Wrapper = styled.header`
   align-items: center;
   display: flex;
-  padding: 1rem 0 3rem 0;
+  padding: 1rem 0 2rem 0;
+  background-color: #EAEAEA;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
   a {
     color: ${props => props.theme.colors.body_color};
     text-decoration: none;
@@ -47,6 +50,7 @@ const Name = styled.div`
   display: flex;
   flex: 1;
   justify-content: center;
+  text-align: center;
   a {
     font-size: 23px;
     font-family: ${`${config.headerFontFamily}, sans-serif`};

@@ -3,9 +3,11 @@ client: "Google Udacity Course"
 title: "Responsive Web Page"
 cover: "./responsive-spa.png"
 date: "2017-10-26"
-skill: "Website"
+skill: "Responsive Website"
 ---
 # Description
+
+Flexbox and Media Queries
 
 <img src="responsive-spa.png">
 
