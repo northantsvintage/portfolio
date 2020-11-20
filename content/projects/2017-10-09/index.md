@@ -11,7 +11,7 @@ skill: "React, Google API"
 
 [Github Source](https://github.com/northantsvintage/final-project/)
 
-[Demo](https://northantsvintage.github.io/final-project/)
+
 
 Skills
 
